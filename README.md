@@ -18,6 +18,12 @@ To create these for yourself
   
 4) Include these files in your Go program
 
+> go get github.com/matzhouse/go-voldemort-protobufs
+
+```go
+import github.com/matzhouse/go-voldemort-protobufs
+```
+
 I'll link to some example code at some point in the future when I have it sorted.
 
 ## Questions?
