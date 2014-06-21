@@ -21,7 +21,11 @@ To create these for yourself
 > go get github.com/matzhouse/go-voldemort-protobufs
 
 ```go
-import github.com/matzhouse/go-voldemort-protobufs
+package main
+
+import (
+    "github.com/matzhouse/go-voldemort-protobufs"
+    )
 ```
 
 I'll link to some example code at some point in the future when I have it sorted.
