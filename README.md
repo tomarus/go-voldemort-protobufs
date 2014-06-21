@@ -14,7 +14,7 @@ To create these for yourself
 2) Download current Voldemort code  - see link below
 3) Using the .proto files under src/ generate the language specific bindings using 
 
-  protoc --go_out=. *.proto
+> protoc --go_out=. *.proto
   
 4) Include these files in your Go program
 
@@ -24,7 +24,7 @@ I'll link to some example code at some point in the future when I have it sorted
 
 Find me on twitter, and ask me a question :) 
 
-@mattalkingshit
+**@mattalkingshit**
 
 
 ## Links
