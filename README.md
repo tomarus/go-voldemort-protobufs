@@ -14,11 +14,15 @@ To create these for yourself
 2) Download current Voldemort code  - see link below
 3) Using the .proto files under src/ generate the language specific bindings using 
 
-> protoc --go_out=. *.proto
-  
+```
+$ protoc --go_out=. *.proto
+```
+
 4) Include these files in your Go program
 
-> go get github.com/matzhouse/go-voldemort-protobufs
+```
+$ go get github.com/matzhouse/go-voldemort-protobufs
+```
 
 ```go
 package main
