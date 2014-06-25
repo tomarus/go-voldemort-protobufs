@@ -1,7 +1,7 @@
 go-voldemort-protobufs
 ======================
 
-Protocol buffer bindings for current Voldemort version 1.16
+Protocol buffer bindings for current Voldemort version 1.6.0
 
 ## Details
 
